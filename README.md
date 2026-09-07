@@ -1,1 +1,0 @@
-# cognevance_big_data_predictive_intelligence
